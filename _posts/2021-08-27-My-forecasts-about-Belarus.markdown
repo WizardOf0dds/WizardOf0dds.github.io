@@ -1,6 +1,6 @@
 # Question: Before 11 November 2020, will Alexander Lukashenko cease to be the president of Belarus?
 
-Question url: https://www.gjopen.com/questions/1739-before-11-november-2020-will-alexander-lukashenko-cease-to-be-the-president-of-belarus
+[GJOpen guestion url](https://www.gjopen.com/questions/1739-before-11-november-2020-will-alexander-lu[kashenko-cease-to-be-the-president-of-belarus)
 
 #My forecasts and rationales posted on GJOpen
 
@@ -17,3 +17,7 @@ Despite some resignations of police officers as a sign of protest Lukashenko sti
 As he wrote:
 >"It’s impossible so far to predict with certainty how this political crisis will end. If the protests fizzle out under pressure from the security services—which currently looks like the most probable scenario—it’s unlikely that the authorities will refrain from inflicting a retaliatory blow."
 
+%%html <figure class="Forecast">
+  <iframe src="https://www.metaculus.com/questions/embed/7129/" width="400" height="400" frameborder="1" allowfullscreen="false"> 
+  </iframe>
+</figure>
