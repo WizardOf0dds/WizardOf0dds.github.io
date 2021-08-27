@@ -17,7 +17,10 @@ Despite some resignations of police officers as a sign of protest Lukashenko sti
 As he wrote:
 >"It’s impossible so far to predict with certainty how this political crisis will end. If the protests fizzle out under pressure from the security services—which currently looks like the most probable scenario—it’s unlikely that the authorities will refrain from inflicting a retaliatory blow."
 
-%%html <figure class="Forecast">
+
   <iframe src="https://www.metaculus.com/questions/embed/7129/" width="400" height="400" frameborder="1" allowfullscreen="false"> 
   </iframe>
-</figure>
+
+
+  <iframe src="https://www.getguesstimate.com/models/1307" scrolling="no" width="1400" height="835" frameborder="1" allowfullscreen="false"> 
+  </iframe>
